@@ -1,0 +1,4 @@
+profile: kafka
+resourceName: events
+storage:
+  size: 5Gi
