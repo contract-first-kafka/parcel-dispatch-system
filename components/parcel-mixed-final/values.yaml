@@ -1,0 +1,6 @@
+implementationProfile: quarkus-camel-openapi
+build:
+  enabled: true
+  profile: quarkus-jvm
+  repository: https://github.com/contract-first-kafka/parcel-dispatch-parcel-mixed-final-service.git
+  revision: main
