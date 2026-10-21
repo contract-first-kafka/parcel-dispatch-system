@@ -1,0 +1,4 @@
+profile: kafka
+resourceName: parcel-broker
+storage:
+  size: 5Gi
